@@ -1,4 +1,64 @@
 # Airline Reservation System
+
+- We have built a web application as a part of MU Computer Engineering Mini Porject for subjects: Web Technology and Database Mangagement Systems.
+
+The web application is used by cutomers to select and book their flights on desired source and destination on particular date. The user after booking is given a unique PNR number which he has to use during cancellation of his flight booking. The customer can also see the status of the flight which are late, on-time or cancelled.
+The admin has access to change anything in the database of flights or customers. 
+The `dbconfig.php file` is appended to all php files that require access to database.
+
+
+### Contents of Web Application
+```
+Admin/
+├── admin.php
+├── change_status.php
+├── flight-addision.php
+├── insertFlight.php
+├── index.php
+├── flight-addision.php
+└── CSS/
+    └── admin-login.css
+    
+Book/
+├── confirm.php
+├── customer.php
+├── flight.php
+├── summary.php
+└── index.php
+
+Cancel/
+├── cancel_summary.php
+├── confirm.php
+└── index.php
+
+Database/
+└── dbconfig.php
+
+Status/
+└── index.php
+
+index.php
+styling.php
+
+```
+
+## What we have used ?
+- HTML
+- CSS
+- JavaScript
+- Bootstarp
+- PHP
+- MySQL
+
+## Usage:
+
+You should start cloning this repository:
+
+    $ git clone https://github.com/shivangmedhekar/Airline-Reservation-System.git
+
+After getting the code, you must use XAMP or WAMP for local hosting and open index.php in web browser
+
+
 ## Team
 |  **Shivang Medhekar** | **Sohum Khot** |  **Elton Lemos** |
 | :---: |:---:|:---:|
