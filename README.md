@@ -56,7 +56,7 @@ You should start cloning this repository:
 
     $ git clone https://github.com/shivangmedhekar/Airline-Reservation-System.git
 
-After getting the code, you must use XAMP or WAMP for local hosting and open index.php in web browser
+After getting the code, you must use *XAMP* or *WAMP* for local hosting and open `index.php` in web browser
 
 
 ## Team
