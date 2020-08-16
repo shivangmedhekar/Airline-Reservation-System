@@ -4,7 +4,7 @@
 
 The web application is used by cutomers to select and book their flights on desired source and destination on particular date. The user after booking is given a unique PNR number which he has to use during cancellation of his flight booking. The customer can also see the status of the flight which are late, on-time or cancelled.
 The admin has access to change anything in the database of flights or customers. 
-The `dbconfig.php file` is appended to all php files that require access to database.
+The `dbconfig.php` file is appended to all php files that require access to database.
 
 
 ### Contents of Web Application
@@ -38,7 +38,7 @@ Status/
 └── index.php
 
 index.php
-styling.php
+styling.css
 
 ```
 
