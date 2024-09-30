@@ -62,8 +62,8 @@ After getting the code, you must use *XAMP* or *WAMP* for local hosting and open
 ## Team
 |  **Shivang Medhekar** | **Sohum Khot** |  **Elton Lemos** |
 | :---: |:---:|:---:|
-| [![Shivang Medhekar](https://avatars2.githubusercontent.com/u/69140290?s=200&u=5df35a82b6d2b6b7b876dfdc22d451c92d30a5c6&v=4)](https://github.com/shivangmedhekar)    | [![Sohum Khot](https://avatars0.githubusercontent.com/u/49232257?s=200&u=909a1b15cee566203a07ef8859148b6c508029d2&v=4)](https://github.com/sohumkhot) | [![Elton Lemos](https://avatars.githubusercontent.com/u/61613837?v=4)](https://github.com/eltonlemos) |
-| <a href="https://github.com/shivangmedhekar" target="_blank">`github.com/shivangmedhekar`</a> | <a href="https://github.com/sohumkhot" target="_blank">`github.com/sohumkhot`</a> | <a href="https://github.com/eltonlemos" target="_blank">`github.com/icefrostpeng`</a> | 
+| [![Shivang Medhekar](https://avatars2.githubusercontent.com/u/69140290?s=200&u=5df35a82b6d2b6b7b876dfdc22d451c92d30a5c6&v=4)](https://github.com/shivangmedhekar)    | [![Sohum Khot](https://avatars0.githubusercontent.com/u/49232257?s=200&u=909a1b15cee566203a07ef8859148b6c508029d2&v=4)](https://github.com/sohumkhot) | [![Elton Lemos](https://avatars.githubusercontent.com/u/61613837?s=200&v=4)](https://github.com/eltonlemos) |
+| <a href="https://github.com/shivangmedhekar" target="_blank">`github.com/shivangmedhekar`</a> | <a href="https://github.com/sohumkhot" target="_blank">`github.com/sohumkhot`</a> | <a href="https://github.com/eltonlemos" target="_blank">`github.com/eltonlemos`</a> | 
 
 ## License
 
